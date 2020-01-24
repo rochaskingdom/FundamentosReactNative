@@ -11,7 +11,7 @@ export default props => {
     }
 
     return(
-        <Button title='Plataforma?'
+        <Button title='Plataforma ?'
             onPress={() => notificar('Parabens')} />
     )
 }
